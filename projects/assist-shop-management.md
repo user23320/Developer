@@ -22,24 +22,44 @@ The development process involved observing a shop's needs, identifying a problem
 
 ## Features and scope
 
-- Inventory management and POS sales
-- Receipts and commissions
-- Employee accountability
-- Finance and profit/loss reporting
-- Business analysis and charts showing operational performance
-- Customer-management functions
-- SMS updates to customers
-- Multi-tenant and multi-shop operations
-- QR/barcode workflows
-- Offline business continuity
+| Area | Capabilities | Purpose |
+| --- | --- | --- |
+| Sales and checkout | POS, transaction history, receipt lookup and printing | Connect sales with usable records |
+| Inventory | Products, prices, quantities, low-stock visibility | Support stock control |
+| Analytics | Charts, sales reports, profit/loss and finance summaries | Give owners visibility beyond daily totals |
+| Staff | Sales monitoring, commissions, attendance and biometric support | Support accountability |
+| Customers | Customer management and personalized SMS | Support communication after a sale |
+| Branches | Separate shop reporting and goods transfers | Coordinate multiple locations |
+| Assisted checkout | Barcode sales and customer QR ordering | Support different selling workflows |
+| Oversight | Audit records for edits, cancellations and stock changes | Make sensitive activity reviewable |
+| Business-specific tools | Publicly listed sawmill and block-moulding estimators | Extend the platform beyond retail checkout |
+| Continuity | Prepared-device offline access and pending-work synchronization | Keep supported operations available during interruptions |
 
-The product's goal is to help business owners manage connected operations and understand their business, alongside processing sales.
+Capabilities are described in the public product pages and the developer's account. Availability can depend on device preparation, configuration, and enabled modules.
+
+## Offline sales and business continuity
+
+A central design goal is to let a shop continue supported sales when internet connectivity is interrupted or the live service is temporarily unavailable for maintenance.
+
+The developer describes browser-based local storage using **IndexedDB**, together with cached application resources and Offline PIN access. This supports a prepared device's offline selling workflow and preserves pending work for later synchronization. IndexedDB and caching are described from the developer's account; implementation code was not inspected for this case study.
+
+1. Prepare or refresh the device while the live service is available.
+2. Use the prepared offline environment and PIN access when needed.
+3. Continue supported sales with locally available resources; the homepage also advertises local product work and barcode/scanner POS.
+4. Restore connectivity and live-service availability to synchronize pending work.
+5. In the developer's described selling-page workflow, reconnect and allow synchronization before leaving the page.
+
+The developer reports that attendants can continue selling after switching off mobile data or Wi-Fi on the prepared selling page. Offline operation is a continuity mechanism, not evidence that the remote server remains online during maintenance. This portfolio does not claim measured 100% uptime, support for every module offline, or completed synchronization reliability tests.
 
 ## Technology areas
 
-Multi-tenant design, relational databases, access control, transaction workflows, reporting and chart-based analysis, customer communication, QR/barcode integrations, and offline continuity.
+Multi-tenant design, relational databases, access control, transaction workflows, reporting and chart-based analysis, SMS communication, QR/barcode integrations, biometric-device integration, browser caching, IndexedDB, and offline synchronization.
 
-These areas reflect the portfolio description and the developer's clarification. The portfolio's general technology stack is not assigned wholesale to this project.
+These areas reflect public product descriptions and the developer's clarification. The portfolio's general technology stack is not assigned wholesale to this project.
+
+## Configuration and development direction
+
+Public documentation describes configurable tax-breakdown receipts; it does not establish certification or completed direct tax-authority integration. AI-assisted insights are described as a future direction rather than a delivered feature.
 
 ## Operational experience and evidence limits
 
@@ -51,13 +71,26 @@ No adoption count, satisfaction percentage, financial improvement, formal accept
 
 - Public platform: [Assist Shop Management](https://assistshopmanagement.com).
 - **Placeholder — sanitized screenshots:** pending; show POS, inventory, analysis charts, profit/loss reporting, and customer-management interfaces using demonstration data.
-- **Placeholder — demonstration:** pending; show a sample sale, stock update, receipt, and reporting workflow without exposing customer or shop records.
+- **Demonstrations linked publicly:** the homepage provides desktop and phone tutorial links and states that their records are fictional. The videos were not independently reviewed for this update.
+- **Placeholder — offline demonstration:** pending; record device preparation, an offline sample sale, reconnection, and confirmation that the pending sale synchronized.
+- **Placeholder — synchronization testing:** pending; document interruption/recovery checks, repeat synchronization, duplicate prevention, stock reconciliation, and unsynchronized-work visibility. These are proposed checks, not claimed results.
 - **Placeholder — development example:** pending; document one observed shop problem, the corresponding feature, and how its behaviour was checked, without identifying the shop or revealing protected rules.
 - **Placeholder — architecture summary:** pending; add a high-level diagram without private infrastructure or implementation secrets.
 - **Placeholder — testing summary:** pending; describe checks actually performed and their results using sample data.
 - **Placeholder — user feedback:** pending; include an anonymized summary or an approved testimonial only with permission to publish.
 
 Placeholders identify evidence still to be supplied; they do not represent attached screenshots, demonstrations, or verified results.
+
+## Public sources
+
+Reviewed on 6 October 2026:
+
+- [Homepage and offline continuity](https://assistshopmanagement.com/)
+- [Features](https://assistshopmanagement.com/features)
+- [About](https://assistshopmanagement.com/about.php)
+- [FAQs](https://assistshopmanagement.com/faqs.php)
+
+The homepage's prepared-device offline guidance differs from an older FAQ fallback recommending manual receipts during interruptions. This case study uses the current homepage and developer explanation for offline scope. Public descriptions establish advertised capabilities; authenticated workflows and source code were not inspected.
 
 ## Publication boundary
 
