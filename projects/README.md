@@ -8,7 +8,7 @@ Six sanitized case studies based only on the portfolio README's project descript
 | --- | --- | --- |
 | DALEAM EDU | Ongoing — active development and upgrades | [Read case study](daleam-edu.md) |
 | Assist Shop Management (DALEAM WEB) | Live — actively maintained | [Read case study](assist-shop-management.md) |
-| Real Tech Electricals | Live — ongoing enhancements | [Read case study](real-tech-electricals.md) |
+| Real Tech Electricals | Live — current development scope completed; ongoing maintenance | [Read case study](real-tech-electricals.md) |
 | EasyShopen | Live — ongoing optimization | [Read case study](easyshopen.md) |
 | SafeRide GH Rider | Ongoing — Flutter MVP development | [Read case study](saferide-gh-rider.md) |
 | Smart Campus Environment Monitoring System | Ongoing — academic IoT/Cloud case study | [Read case study](smart-campus-environment-monitoring.md) |
