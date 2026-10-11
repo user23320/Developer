@@ -1,6 +1,6 @@
 # EasyShopen
 
-[Project index](README.md) · [Portfolio](../README.md) · [Real Tech case study](real-tech-electricals.md)
+[Project index](README.md) · [Portfolio](../README.md) · [Evidence index](../evidence/easyshopen/README.md) · [Real Tech case study](real-tech-electricals.md)
 
 **An online retail extension of Real Tech Electricals, developed from a business opportunity into a custom shopping platform.**
 
@@ -70,16 +70,13 @@ The general portfolio stack is not assigned wholesale to this project. An instal
 
 ## Evidence and next additions
 
-- **Public storefront:** [EasyShopen](https://easyshopen.com/).
-- **Business and service descriptions:** [About](https://easyshopen.com/about.php) and [Services](https://easyshopen.com/services.php).
-- **Public interface evidence:** catalogue navigation and a product-detail page were reviewed, without placing orders or accessing customer accounts.
-- **Placeholder — shopping demonstration:** pending; show a sample search, product selection, cart, and test checkout using fictional details.
-- **Placeholder — fulfilment demonstration:** pending; show a sample delivery/pickup selection and order-status journey.
-- **Placeholder — administration screenshots:** pending; use demonstration records to show management workflows and reporting.
-- **Placeholder — architecture summary:** pending; explain component responsibilities without private infrastructure or protected schemas.
-- **Placeholder — testing summary:** pending; document actual checks and results for ordering, stock behaviour, access control, and fulfilment.
+[Open the project evidence index](../evidence/easyshopen/README.md) for available references, private-review conditions, and planned additions.
 
-No customer records, real transactions, sales-growth figures, formal acceptance-test results, or independent performance measurements are published here.
+- **Available:** this author-written case study, the storefront, business/service pages, and the product-page reference from the earlier review. Catalogue navigation and a product-detail page were reviewed on 6 October without placing orders or accessing customer accounts; the evidence-index update did not repeat that review.
+- **Private:** a synthetic shopping demonstration, sanitized screenshots, or high-level summary may be arranged subject to permission, availability, and preparation; a prepared package is not confirmed.
+- **Planned:** shopping and fulfilment walkthroughs, administration screenshots, an architecture summary, and actual ordering/stock/access-control/fulfilment test results. No public files for these candidates are attached.
+
+No customer records, real transactions, sales-growth figures, formal acceptance-test results, or independent performance measurements are published here. Visible controls and index entries do not establish successful transactions or verified stock consistency.
 
 ## Sources and review scope
 

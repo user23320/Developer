@@ -1,6 +1,6 @@
 # SafeRide GH Rider
 
-[Project index](README.md) · [Portfolio](../README.md)
+[Project index](README.md) · [Portfolio](../README.md) · [Evidence index](../evidence/saferide-gh-rider/README.md)
 
 ## Current status
 
@@ -32,13 +32,13 @@ These areas reflect the project description in the portfolio README. Its general
 
 ## Evidence
 
-- Public overview: [SafeRide GH Rider](https://daleamtechnology.net). This overview is not evidence of a production release.
-- **Placeholder — sanitized screenshots:** pending; use demonstration data and remove identifying details.
-- **Placeholder — demonstration:** pending; add a public walkthrough of the MVP when available.
-- **Placeholder — architecture summary:** pending; add a high-level diagram without private infrastructure or protected implementation details.
-- **Placeholder — contribution evidence:** pending; add an appropriate sanitized technical explanation, documentation excerpt, or code sample.
+[Open the project evidence index](../evidence/saferide-gh-rider/README.md) for available documentation, private-review readiness, and planned additions.
 
-Placeholders identify evidence still to be supplied. No screenshots, demonstrations, code, measured results, or independent verification are claimed here.
+- **Available:** this author-written MVP case study. The company website is a general portfolio/contact reference, not a public app release or working MVP demonstration.
+- **Private:** a progress demonstration may be arranged when ready, subject to permission and preparation; no prepared review build or package is confirmed.
+- **Planned:** MVP screenshots, a walkthrough, architecture/technical summaries, and a permitted contribution explanation or isolated code sample. No public files for these candidates are attached.
+
+No production release, completed-feature demonstration, measured results, or independent verification is claimed. The index does not change the project's development status or product scope.
 
 ## Publication boundary
 

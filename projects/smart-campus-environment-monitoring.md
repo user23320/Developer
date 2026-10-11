@@ -1,6 +1,6 @@
 # Smart Campus Environment Monitoring System
 
-[Project index](README.md) · [Portfolio](../README.md)
+[Project index](README.md) · [Portfolio](../README.md) · [Evidence index](../evidence/smart-campus-environment-monitoring/README.md)
 
 ## Current status
 
@@ -31,12 +31,13 @@ These areas reflect the project description in the portfolio README. Its general
 
 ## Evidence
 
-- **Placeholder — sanitized screenshots:** pending; use demonstration data and remove identifying details.
-- **Placeholder — demonstration:** pending; add a public walkthrough of the design or prototype when available.
-- **Placeholder — architecture summary:** pending; add a high-level diagram without private infrastructure or protected implementation details.
-- **Placeholder — contribution evidence:** pending; add an appropriate sanitized technical explanation, academic report, or presentation.
+[Open the project evidence index](../evidence/smart-campus-environment-monitoring/README.md) for available documentation, conditional private review, and planned additions.
 
-Placeholders identify evidence still to be supplied. No screenshots, demonstrations, code, measured results, or independent verification are claimed here.
+- **Available:** this author-written academic design case study; it is not a completed report, tested prototype, or deployed solution.
+- **Private:** review of academic or site material is conditional on availability, academic/site permission, preparation, and sanitization; no ready review package is asserted here.
+- **Planned:** sanitized design/prototype images, a walkthrough, architecture diagrams, an academic report or excerpt, a presentation, and actual prototype/observation evidence. No public files, measurements, or test results for these candidates are attached.
+
+No completed deployment, measured improvement, supervisor approval, or independent verification is claimed. Proposed evidence must not invent site observations or represent a design as a tested installation.
 
 ## Publication boundary
 

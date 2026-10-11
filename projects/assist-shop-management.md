@@ -1,6 +1,6 @@
 # Assist Shop Management (DALEAM WEB)
 
-[Project index](README.md) · [Portfolio](../README.md)
+[Project index](README.md) · [Portfolio](../README.md) · [Evidence index](../evidence/assist-shop-management/README.md)
 
 ## Current status
 
@@ -69,17 +69,13 @@ No adoption count, satisfaction percentage, financial improvement, formal accept
 
 ## Evidence
 
-- Public platform: [Assist Shop Management](https://assistshopmanagement.com).
-- **Placeholder — sanitized screenshots:** pending; show POS, inventory, analysis charts, profit/loss reporting, and customer-management interfaces using demonstration data.
-- **Demonstrations linked publicly:** the homepage provides desktop and phone tutorial links and states that their records are fictional. The videos were not independently reviewed for this update.
-- **Placeholder — offline demonstration:** pending; record device preparation, an offline sample sale, reconnection, and confirmation that the pending sale synchronized.
-- **Placeholder — synchronization testing:** pending; document interruption/recovery checks, repeat synchronization, duplicate prevention, stock reconciliation, and unsynchronized-work visibility. These are proposed checks, not claimed results.
-- **Placeholder — development example:** pending; document one observed shop problem, the corresponding feature, and how its behaviour was checked, without identifying the shop or revealing protected rules.
-- **Placeholder — architecture summary:** pending; add a high-level diagram without private infrastructure or implementation secrets.
-- **Placeholder — testing summary:** pending; describe checks actually performed and their results using sample data.
-- **Placeholder — user feedback:** pending; include an anonymized summary or an approved testimonial only with permission to publish.
+[Open the project evidence index](../evidence/assist-shop-management/README.md) for available references, private-review conditions, and planned artifact scopes.
 
-Placeholders identify evidence still to be supplied; they do not represent attached screenshots, demonstrations, or verified results.
+- **Available:** this author-written case study and its public product-page references. The homepage was recorded as linking desktop and phone tutorials with fictional records; the videos were not independently reviewed, and no copied recording is attached here.
+- **Private:** a sanitized demonstration, screenshots, or high-level summary may be arranged subject to permission, availability, and preparation; a prepared package is not confirmed.
+- **Planned:** interface screenshots, an offline walkthrough, synchronization checks, a development example, architecture and testing summaries, and approved user feedback. Proposed checks are not claimed results.
+
+The index does not verify offline reliability, uptime, adoption counts, financial improvement, or user-feedback approval. All future artifacts must use sample or appropriately sanitized material.
 
 ## Public sources
 

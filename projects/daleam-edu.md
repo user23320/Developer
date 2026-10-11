@@ -1,6 +1,6 @@
 # DALEAM EDU
 
-[Project index](README.md) · [Portfolio](../README.md)
+[Project index](README.md) · [Portfolio](../README.md) · [Evidence index](../evidence/daleam-edu/README.md)
 
 **A school-management platform shaped by approximately ten years of private-school experience, connecting academic records with the business of running a school.**
 
@@ -70,15 +70,13 @@ The homepage advertises installable/hybrid access. That alone does not establish
 
 ## Evidence and next additions
 
-- **Public platform:** [DALEAM EDU](https://daleamedu.com).
-- **Public descriptions:** [About the platform](https://daleamedu.com/about).
-- **Placeholder — academic demonstration:** pending; show sample registration, assessment entry, and report generation.
-- **Placeholder — finance demonstration:** pending; show sample fee categories, collection records, expenses, and management summaries; identify implemented workflows clearly.
-- **Placeholder — role-specific screenshots:** pending; use fictional records for teacher, finance, management, and parent views.
-- **Placeholder — architecture summary:** pending; show high-level relationships without private infrastructure or protected database details.
-- **Placeholder — testing summary:** pending; document checks performed and their results, including permissions and school-data separation.
+[Open the project evidence index](../evidence/daleam-edu/README.md) for artifact availability and the scope of each proposed addition.
 
-No student records, actual financial transactions, formal acceptance results, adoption statistics, or independent performance measurements are supplied here. Placeholders indicate evidence still to be added.
+- **Available:** this author-written case study, the public platform, and its About-page reference. These do not verify authenticated school workflows or security controls.
+- **Private:** a sanitized demonstration, screenshots, or high-level summary may be arranged subject to permission, availability, and preparation; a prepared package is not confirmed.
+- **Planned:** academic and finance demonstrations, role-specific screenshots, an architecture summary, and actual testing results. No public files for these candidates are attached.
+
+No student records, actual financial transactions, formal acceptance results, adoption statistics, or independent performance measurements are supplied. The index provides navigation, not proof that pending artifacts are complete.
 
 ## Sources and review scope
 

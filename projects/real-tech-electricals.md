@@ -1,6 +1,6 @@
 # Real Tech Electricals
 
-[Project index](README.md) · [Portfolio](../README.md)
+[Project index](README.md) · [Portfolio](../README.md) · [Evidence index](../evidence/real-tech-electricals/README.md)
 
 ## Current status
 
@@ -45,14 +45,13 @@ This operational account is distinct from published test evidence. No formal use
 
 ## Evidence
 
-- Public platform: [Real Tech Electricals](https://realtechelectricals.com).
-- **Placeholder — sanitized screenshots:** pending; show bookings, technician responses, job tracking, and dashboards using demonstration data.
-- **Placeholder — demonstration video:** pending; show a sample booking, technician notification and response, job-status update, and demonstration payment-status visibility. Use sample records and a clearly labelled simulated or test status.
-- **Placeholder — architecture summary:** pending; provide a high-level diagram without private infrastructure or protected implementation details.
-- **Placeholder — academic documentation excerpt:** pending; a research report has been supplied privately, but no public sanitized excerpt or academic approval evidence is attached here.
-- **Placeholder — testing summary:** pending; document checks actually performed, their scope, and results without identifying customers or publishing transaction records.
+[Open the project evidence index](../evidence/real-tech-electricals/README.md) for available references, private material, and planned additions.
 
-Placeholders identify evidence still to be supplied. The academic report's title does not establish supervisor approval, completed defence, or independently verified system performance.
+- **Available:** this author-written case study and the public website reference. Authenticated workflows and the developer's operational account are not independently verified by those links.
+- **Private:** a research report was previously supplied privately, as recorded in this case study; it was not accessed for the evidence-index update. External sharing permission and readiness are unconfirmed. A sanitized demonstration, screenshots, or high-level summary may also be arranged subject to permission, availability, and preparation.
+- **Planned:** interface screenshots, a synthetic workflow recording with labelled simulated/test payment status, an architecture summary, a permitted academic excerpt, and actual testing results. No public files for these candidates are attached.
+
+The private report's title or existence does not establish supervisor approval, completed defence, or independently verified performance. The index does not establish nationwide technician coverage.
 
 ## Publication boundary
 
