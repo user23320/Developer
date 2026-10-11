@@ -6,6 +6,12 @@ I am a Ghana-based software developer building practical web and mobile systems 
 
 [DALEAM Technology](https://daleamtechnology.net) · [Professional Contact](https://daleamtechnology.net) · [GitHub](https://github.com/user23320)
 
+## Portfolio Website
+
+A mobile-responsive static portfolio is included in [`docs/`](docs/index.html), with a profile, skills, selected projects, six case-study pages, separate evidence indexes, review limitations, and contact details. It is generated from this README and the existing public Markdown documents; project status wording remains **October 2026** and the evidence inventory remains **11 October 2026**. Website source code is portfolio presentation code, not a published code sample from the proprietary applications.
+
+The site is ready for GitHub Pages using **`main` / `/docs`**. Pages was not enabled at the initial repository check; adding the website files does not itself verify a live deployment. See the [publishing and maintenance guide](PORTFOLIO.md) for activation, content updates, and validation.
+
 ## Professional Focus
 
 - Full-stack web application development
